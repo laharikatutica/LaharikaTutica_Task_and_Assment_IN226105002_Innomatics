@@ -1,5 +1,5 @@
 # IN226105002_FASTAPI
-FastAPI — Day 1 Practice Tasks
+FastAPI — Practice Tasks
 
 ## Guidelines to Run the Project
 ### Install dependencies:
