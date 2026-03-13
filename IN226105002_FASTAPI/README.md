@@ -1,12 +1,12 @@
 # IN226105002_FASTAPI
-FastAPI — Day 1 Practice Tasks
+FastAPI — Practice Tasks
 
 ## Guidelines to Run the Project
-### Install dependencies:
+### To install dependencies:
 pip install fastapi uvicorn
 
-### Run the server:
+### To run the server:
 uvicorn main:app --reload
 
-### Open in browser:
+### To open in browser:
 http://127.0.0.1:8000/
